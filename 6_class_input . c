@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main(void)
+{
+    //decalring int variable
+    int age;
+    printf(" enter your age");
+    //taking input for age variable
+    scanf("%i", &age);
+    //printing the value of num
+    printf( " you are %i year old.\n",age);
+ 
+ }               
